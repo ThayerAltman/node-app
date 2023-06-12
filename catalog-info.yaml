@@ -4,5 +4,4 @@ metadata:
   name: "node-app"
 spec:
   type: service
-  owner: group:web
   lifecycle: experimental
